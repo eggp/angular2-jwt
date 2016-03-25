@@ -1,5 +1,7 @@
 # angular2-jwt
 
+TODO add not required auth paths config
+
 **angular2-jwt** is a helper library for working with [JWTs](http://jwt.io/introduction) in your Angular 2 applications.
 
 For examples on integrating **angular2-jwt** with Webpack and SystemJS, see [auth0-angular2](https://github.com/auth0/auth0-angular2).
